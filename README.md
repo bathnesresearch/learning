@@ -1,3 +1,5 @@
-learning
+A repo for some R code learning
 ========
-In which I try to learn code
+Whereby I'm going to need to document some stuff about data projects.
+
+Woo
